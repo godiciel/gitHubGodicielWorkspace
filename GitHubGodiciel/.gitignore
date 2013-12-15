@@ -1,0 +1,7 @@
+.DS_Store
+.meta*
+.classpath
+.setting
+/bin
+*.cache
+/.project
